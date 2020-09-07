@@ -8,7 +8,7 @@
  *
  * History
  * v1.0 – Primera versión 
-* La primera versión de aprMenu fue escrita por Karl Monitrix
+ *
 */
 
 import React, { Component } from 'react';
