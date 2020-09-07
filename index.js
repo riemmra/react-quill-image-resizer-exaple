@@ -1,3 +1,16 @@
+/**
+ * @fileoverview react-quill-image-resizer para redux form
+ *
+ * @version                               1.0
+ *
+ * @author              Ricky Raymundo <riemmra@gmail.com>
+ * @copyright           Respetar términos de la licencia GPL-3.0 License
+ *
+ * History
+ * v1.0 – Primera versión 
+* La primera versión de aprMenu fue escrita por Karl Monitrix
+*/
+
 import React, { Component } from 'react';
 import ReactQuill, {Quill} from 'react-quill';
 import ImageResize from 'quill-image-resize-module-react'
